@@ -1,0 +1,20 @@
+{
+  "name": "testing-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client":"cd client/app-react && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeoCephei/vercel-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeoCephei/vercel-test/issues"
+  },
+  "homepage": "https://github.com/NeoCephei/vercel-test#readme"
+}
